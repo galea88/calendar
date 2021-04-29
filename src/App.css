@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200&display=swap');
+
+body{font-family: Poppins, sans-serif;}
+
+table{width: 100%;}
+table th{ border: thin solid lightgray;}
+table td{ width: 50px; border: thin solid lightgray; height: 70px; text-align: center;}
+
+select{
+  margin-top: 10px;
+  border-radius: 15px;
+  padding: 5px 8px;
+  border: thin solid lightgray;
+}
+
+input{    
+  padding: 3px 8px;
+  margin-left: 10px;
+  border-radius: 15px;
+  border: thin solid lightgray;
+}
